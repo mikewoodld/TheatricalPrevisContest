@@ -9,6 +9,8 @@ I also still owe everyone the scoring rubric that judges will be using - that'll
 
 Please see the FAQ on the contest website.
 
+Known issues and their fixes will be added to the "issues" tab above.
+
 <h2>Introduction</h2>
 
 On this page, you'll find everything that you need to get started on your contest entry. The actual visualizer file is contained in the .zip folder. Be sure to choose either MacOS or PC as these files are not cross-platform compatible.
