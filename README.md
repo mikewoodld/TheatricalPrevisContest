@@ -5,6 +5,8 @@ Please note: the Windows version of the Capture Presentation File will be posted
 
 On Monday, May 18th, I'll be going live on YouTube at 1:00pm EDT to do a walkthrough of the Capture file, explaining how the DMX-controlled scenery and masking works, and answering any questions that you might have. That video will be available within a couple hours of the live stream if you miss it. https://www.youtube.com/watch?v=eoWK0SctDV4
 
+I also still owe everyone the scoring rubric that judges will be using - that'll be here very soon.
+
 Please see the FAQ on the contest website.
 
 <h2>Introduction</h2>
@@ -29,13 +31,15 @@ You can pick and choose which of these items you'd like to have in your show. If
 
 There are 16 actors available for your show. You can place them anywhere in XYZ space onstage. They originate 4 per corner and they have various poses. 
 
-My favorite feature available to you is the modular stage decking. There are 20 deck sections, 4 deep by 5 wide, that you can conrol with DMX. You can use them to make all kinds of staging options. 
+My favorite feature available to you is the modular stage decking. There are 20 deck sections, 4 deep by 5 wide, that you can control with DMX. You can use them to make all kinds of staging options. 
 
 There are also two scenic portals that can be overhauled through the deck to change their opening. Just don't tell the carpenters. 
 
 <b>You can control the hazer with DMX address 6/512.</b>
 
 Finally, you are able to change the masking using DMX. You can fly a main curtain, midstage black, upstage black, and cyclorama. The legs can be flown out and the borders can change trims to reveal your electrics. When you fly the CYC out, you just might find a beautiful brick wall background... RENT, anyone?
+
+<b>ALL AUTOMATIONS ARE IN UNIVERSE 6</b>
 
 <h3>Patching the Camera<h3>
   
@@ -57,6 +61,8 @@ The controls for the camera can be sensitive. I recommend opening the demo show 
     
 You can override the DMX Camera controls at anytime by changing the view manually or by selecting a default view within Capture. Note that if you then change any of the DMX Camera Levels, the camera will snap back to the DMX position. Think of it as an LTP Camera Controller.
 
+<b>THE CAMERA IS PATCHED TO UNIVERSE 7 AND IS THE ONLY THING IN THIS UNIVERSE.</b>
+
 <h3>Selectively Patching</h3>
 Depending on what hardware you have available to program with, you might want to pick and choose what things to patch in order to save on patched address counts. You can do this with fixtures, with people, with scenery, really anything. Just take some time to think about what you want to accomplish and choose the tools available that will help you make that happen.
 
@@ -68,6 +74,10 @@ Some of the fixture placements - like the 2nd electric having the MLs and the CS
 Some objects, mostly positions and architecture, have had some settings adjusted to not cast shadows in order to save on some rendering power.
 
 When you zoom around in wireframe view, you'll see lots of pink lines. These are automation ranges for the various DMX automations. You'll also see lots of offstage scenery. The scenery lives offstage unless you patch it and turn it on. 
+
+If you find problems, shoot me a message using the methods listed on the contest website. 
+
+<b><i><u>IMPORTANT: IF YOU SEND ME A MESSAGE ON SOCIAL MEDIA, GITHUB, TEXTING, OR ANYTHING THAT ISN'T THROUGH THE OFFICIAL CONTEST EMAIL ADDRESS, I CANNOT PROMISE THAT I'LL SEE IT OR RESPOND. PLEASE DIRECT ALL COMMUNICATION THROUGH THE CONTEST WEBSITE.</b></i></u>
 
 <h2>Programming Tips</h2>
 If you want to have moving people or scenery in your song, put your moving people and scenery into their own cuelists and trigger them from your main list. Trust me, this will make your life a million times easier. 
