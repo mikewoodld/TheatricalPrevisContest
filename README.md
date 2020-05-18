@@ -11,6 +11,12 @@ Please see the FAQ on the contest website.
 
 Known issues and their fixes will be added to the "issues" tab above.
 
+
+<h1>Changelog:</h1>
+
+05-18-20 13:48 - Added a version for Mac users with Intel GPUs. This is bascially just a backsaved 2019 Presentation file to help address these issues: https://www.capture.se/Blog/Post/5771/An-update-on-macOS-and-Intel-GPUs
+
+
 <h2>Introduction</h2>
 
 On this page, you'll find everything that you need to get started on your contest entry. The actual visualizer file is contained in the .zip folder. Be sure to choose either MacOS or PC as these files are not cross-platform compatible.
