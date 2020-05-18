@@ -16,6 +16,8 @@ Known issues and their fixes will be added to the "issues" tab above.
 
 05-18-20 13:48 - Added a version for Mac users with Intel GPUs. This is bascially just a backsaved 2019 Presentation file to help address these issues: https://www.capture.se/Blog/Post/5771/An-update-on-macOS-and-Intel-GPUs
 
+05-18-20 13:56 - Added a CSV containing fixture XYZ data per request from YouTube.
+
 
 <h2>Introduction</h2>
 
