@@ -3,6 +3,8 @@ http://www.mikewoodld.com/contest
 
 On Monday, May 18th, I'll be going live on YouTube at 1:00pm EDT to do a walkthrough of the Capture file, explaining how the DMX-controlled scenery and masking works, and answering any questions that you might have. That video will be available within a couple hours of the live stream if you miss it. https://www.youtube.com/watch?v=eoWK0SctDV4
 
+If you were clever and found your way here before the official launch time at 9:00am, please re-download your files. Some things have changed.
+
 I also still owe everyone the scoring rubric that judges will be using - that'll be here very soon.
 
 Please see the FAQ on the contest website.
