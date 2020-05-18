@@ -25,6 +25,8 @@ You can also switch between live view, wireframe view, plot view, and polygon vi
 
 In the documentation, you'll find XLSX, CSV, and LW6 versions of the patch information. These are all identical - you can choose which one you need. <b>The channel numbers contained herein are merely suggestions</b> - you can patch anything to any channel you want. You cannot, however, change modes or addresses.
 
+I am fully aware that this patching scheme would NOT be sustainable in real life - things are patched by fixture type rather than by position. But this was done purposely to make it a little easier to get up and running. 
+
 <h3>Patching Scenery & People</h3>
 
 In the repo, you'll find an .xlsx file called "DMX Automation Information" - this document contains a list of all of the various things that you can control with DMX. There are people, vehicles, tables, chairs, pianos, a car, and even a bus! There are portal arches, foliage borders, trees, and more.
