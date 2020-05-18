@@ -1,8 +1,6 @@
 # TheatricalPrevisContest
 http://www.mikewoodld.com/contest
 
-Please note: the Windows version of the Capture Presentation File will be posted ASAP - probably within 24 hours. My apologies, there was a last minute problem and I'm working to get it resolved. The MacOS version is available now.
-
 On Monday, May 18th, I'll be going live on YouTube at 1:00pm EDT to do a walkthrough of the Capture file, explaining how the DMX-controlled scenery and masking works, and answering any questions that you might have. That video will be available within a couple hours of the live stream if you miss it. https://www.youtube.com/watch?v=eoWK0SctDV4
 
 I also still owe everyone the scoring rubric that judges will be using - that'll be here very soon.
@@ -35,7 +33,11 @@ My favorite feature available to you is the modular stage decking. There are 20 
 
 There are also two scenic portals that can be overhauled through the deck to change their opening. Just don't tell the carpenters. 
 
-<b>You can control the hazer with DMX address 6/512.</b>
+<b>You can control the hazer with DMX address 6/5509-512.</b>
+    Fog Density Coarse - 6/509
+    Fog Density Fine - 6/510
+    Fog Variation Coarse - 6/511
+    Fog Variation Fine - 6/512
 
 Finally, you are able to change the masking using DMX. You can fly a main curtain, midstage black, upstage black, and cyclorama. The legs can be flown out and the borders can change trims to reveal your electrics. When you fly the CYC out, you just might find a beautiful brick wall background... RENT, anyone?
 
@@ -55,7 +57,7 @@ The controls for the camera can be sensitive. I recommend opening the demo show 
     TrckOffX - Truck L/R
     TrckOffY - Dolly US/DS
     TrckOffZ - Zoom
-    Fog - IGNORE - Haze for this project can be controlled on Address 6/512.
+    Fog - IGNORE - Haze for this project can be controlled on Address 6/509 thru 512.
     Layer - IGNORE
     Scene - IGNORE
     
