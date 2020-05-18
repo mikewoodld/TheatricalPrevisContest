@@ -63,7 +63,7 @@ Finally, you are able to change the masking using DMX. You can fly a main curtai
 
 <b>ALL AUTOMATIONS ARE IN UNIVERSE 6</b>
 
-<h3>Patching the Camera<h3>
+<h3>Patching the Camera</h3>
   
 So this is not necessary, but you're able to patch the Capture Camera to be able to control it through DMX. In the repo, there's a .esf containing a single instrument and three presets for it. You can advanced merge these into your show and move the camera around during your song using DMX.
 
