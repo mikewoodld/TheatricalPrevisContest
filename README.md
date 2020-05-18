@@ -13,6 +13,8 @@ On this page, you'll find everything that you need to get started on your contes
 
 This file is a Capture Presentation file, which you can run without a Capture license. For the purposes of simplicity, from now on I will refer to this as just the "Capture file."
 
+If you're presented with a popup asking you to find a file, it's looking for the .bin file that is included in the zip archive.
+
 Navigating around in the Capture file is pretty easy. If you ever find yourself in a weird view, you can click on the settings icon in the bottom right corner to switch to a default camera view. Camera positions 1-3 have been stored for you already.
 
 You can also switch between live view, wireframe view, plot view, and polygon view - I recommend checking these out and zooming/orbiting around a bit to get used to the rig and the theatrical space. Thanks to ETC for the theatre itself - you might recognize it from the ETC Training Files!
@@ -33,7 +35,7 @@ My favorite feature available to you is the modular stage decking. There are 20 
 
 There are also two scenic portals that can be overhauled through the deck to change their opening. Just don't tell the carpenters. 
 
-<b>You can control the hazer with DMX address 6/5509-512.</b>
+<b>You can control the hazer with DMX address 6/509-512.</b> These are two 16-bit addresses for Density and Variation.
 
     Fog Density Coarse - 6/509
     Fog Density Fine - 6/510
