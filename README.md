@@ -41,6 +41,7 @@ There are also two scenic portals that can be overhauled through the deck to cha
     Fog Density Fine - 6/510
     Fog Variation Coarse - 6/511
     Fog Variation Fine - 6/512
+    https://www.capture.se/Manual/2020/appendix.html
 
 Finally, you are able to change the masking using DMX. You can fly a main curtain, midstage black, upstage black, and cyclorama. The legs can be flown out and the borders can change trims to reveal your electrics. When you fly the CYC out, you just might find a beautiful brick wall background... RENT, anyone?
 
@@ -63,6 +64,7 @@ The controls for the camera can be sensitive. I recommend opening the demo show 
     Fog - IGNORE - Haze for this project can be controlled on Address 6/509 thru 512.
     Layer - IGNORE
     Scene - IGNORE
+    https://www.capture.se/Manual/2020/appendix.html
     
 You can override the DMX Camera controls at anytime by changing the view manually or by selecting a default view within Capture. Note that if you then change any of the DMX Camera Levels, the camera will snap back to the DMX position. Think of it as an LTP Camera Controller.
 
