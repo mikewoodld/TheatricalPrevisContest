@@ -34,6 +34,7 @@ My favorite feature available to you is the modular stage decking. There are 20 
 There are also two scenic portals that can be overhauled through the deck to change their opening. Just don't tell the carpenters. 
 
 <b>You can control the hazer with DMX address 6/5509-512.</b>
+
     Fog Density Coarse - 6/509
     Fog Density Fine - 6/510
     Fog Variation Coarse - 6/511
