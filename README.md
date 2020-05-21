@@ -112,6 +112,10 @@ The controls for the camera can be sensitive. I recommend opening the demo show 
     Scene - IGNORE
     https://www.capture.se/Manual/2020/appendix.html
     
+A word of caution - the TrckOff channels above are incredibly sensitive. For this particular file, I recommend looking at the dummy showfile I provided to see the home values in Preset 1. 
+
+Think of the TrckOff channels as moving away from the 0/0/0 data point in XYZ space. 0/0/0 will start you out slightly under the deck at the intersection of PL and CL. So, if all of your values for these three channels are at 50%, you'll be right on that point. You can then move up or down the value to move the camera accordingly.
+    
 You can override the DMX Camera controls at anytime by changing the view manually or by selecting a default view within Capture. Note that if you then change any of the DMX Camera Levels, the camera will snap back to the DMX position. Think of it as an LTP Camera Controller.
 
 <b>THE CAMERA IS PATCHED TO UNIVERSE 7 AND IS THE ONLY THING IN THIS UNIVERSE.</b>
