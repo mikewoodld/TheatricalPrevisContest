@@ -19,6 +19,8 @@ https://github.com/mikewoodld/TheatricalPrevisContest/issues/5
     
     
 <h2>How to Install</h2>
+
 You can install v2.0 exactly the same way you did 1.0. You also DO NOT HAVE TO USE THIS VERSION. You should be able to open the new files and see exactly the same things that you did before, other than perhaps needing to adjust the exposure or ambient light levels. https://github.com/mikewoodld/TheatricalPrevisContest/issues/5
+
 
 Simply patch the new fixures and DMX automations if you want to use them. Again, you are welcome to stay on v1.0 if these new features aren't important to you.
