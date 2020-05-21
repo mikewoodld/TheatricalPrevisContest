@@ -34,9 +34,9 @@ Navigating around in the Capture file is pretty easy. If you ever find yourself 
 You can also switch between live view, wireframe view, plot view, and polygon view - I recommend checking these out and zooming/orbiting around a bit to get used to the rig and the theatrical space. Thanks to ETC for the theatre itself - you might recognize it from the ETC Training Files!
 
 <h2>About the Rig</h2>
-I made the purposeful choice to not do a full drafting package for this show because the Capture Presentation file does a pretty decent job of showing you aroundht rig if you change to a plot or custom view instead of just the model.
+I made the purposeful choice to not do a full drafting package for this show because the Capture Presentation file does a pretty decent job of showing you around the rig if you change to a plot or custom view instead of just the model.
 
-I'll still outline some of the major fixture groups here so that you can get a sense of what's available to you. You can find more documentation in the actual files above. 
+I'll still outline some of the major fixture groups here so that you can get a sense of what's available to you. You can find more documentation in the actual files above.
 
        Moving Lights: Elation Artiste Picasso
               Top Electrics
