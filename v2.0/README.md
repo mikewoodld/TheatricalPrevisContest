@@ -7,6 +7,7 @@ https://github.com/mikewoodld/TheatricalPrevisContest/issues/5
 
     -Added trim height control of electrics and apron truss (see updated DMX Automation XLSX.)
     Due to Capture limitations, you can only fly these in, not out. 
+    To be clearer - they will fly out once you fly them in, just not past their original trim heights from v1.0
     
     -Added a cat. (See DMX automation notes)
     
