@@ -3,6 +3,10 @@
 <b>IMPORTANT: This release will not change any of your programming. You may find that you need to adjust the camera brightness/exposure levels. See this issue for details on how to control the ambient light and exposure settings:</b>
 https://github.com/mikewoodld/TheatricalPrevisContest/issues/5
 
+If you downloaded this file in the first hour of it being live, the #1 and #1 electrics were accidentally patched together. 
+https://github.com/mikewoodld/TheatricalPrevisContest/issues/9
+This has been fixed as of 16:20 CST 05-21-2020. Please redownload.
+
 <h2>What's New</h2>
 
     -Added trim height control of electrics and apron truss (see updated DMX Automation XLSX.)
