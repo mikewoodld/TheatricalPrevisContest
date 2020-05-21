@@ -14,6 +14,8 @@ Known issues and their fixes will be added to the "issues" tab above.
 
 <h1>Changelog:</h1>
 
+       05-21-20 12:17 - Updated README.md to include more info on the Capture Camera Controller.
+       
        05-21-20 00:13 - Updated README.md to include more information about the rig itself.
        
        05-18-20 13:56 - Added a CSV containing fixture XYZ data per request from YouTube.
