@@ -14,6 +14,8 @@ Known issues and their fixes will be added to the "issues" tab above.
 
 <h1>Changelog:</h1>
 
+       05-21-20 16:20 - Fixed issue with #1 and #3 Electric trim heights being patched together. Please redownload.
+       
        05-21-20 14:53 - Released v2.0 to Git - release notes can be found inside the 2.0 folder.
        
        05-21-20 12:17 - Updated README.md to include more info on the Capture Camera Controller.
