@@ -5,8 +5,6 @@ On Monday, May 18th, I'll be going live on YouTube at 1:00pm EDT to do a walkthr
 
 If you were clever and found your way here before the official launch time of 5/18/20 @ 9:00am, please re-download your files. Some things have changed.
 
-I also still owe everyone the scoring rubric that judges will be using - that'll be here very soon.
-
 Please see the FAQ on the contest website.
 
 Known issues and their fixes will be added to the "issues" tab above.
@@ -14,6 +12,8 @@ Known issues and their fixes will be added to the "issues" tab above.
 
 <h1>Changelog:</h1>
 
+       05-22-20 18:31 - Added scoring rubric      
+      
        05-21-20 16:20 - Fixed issue with #1 and #3 Electric trim heights being patched together. Please redownload.
        
        05-21-20 14:53 - Released v2.0 to Git - release notes can be found inside the 2.0 folder.
