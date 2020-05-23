@@ -1,0 +1,1 @@
+This is an experimental build of the Capture presentation file, backsaved using Capture 2019 on Windows to see if it addresses the problems from https://github.com/mikewoodld/TheatricalPrevisContest/issues/14
