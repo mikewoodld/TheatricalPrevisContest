@@ -5,3 +5,5 @@ Fixes issue with the MIDSTAGE BLACK and UPSTAGE BLACK curtains allowing light to
 If you are not using the MIDSTAGE BLACK or UPSTAGE BLACK curtains in your design, you do NOT need to download this version. 
 
 Please note, as before, you may find that you need to adjust your ambient light and exposure settings once you load this file. None of your other programming will be affected.
+
+This is a fix for https://github.com/mikewoodld/TheatricalPrevisContest/issues/16
