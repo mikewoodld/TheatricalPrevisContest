@@ -12,6 +12,8 @@ Known issues and their fixes will be added to the "issues" tab above.
 
 <h1>Changelog:</h1>
 
+       05-27-20 22:24 - Added hotfix v2.1 for issue #16. This is not a required update. See Readme.
+       
        05-23-20 15:50 - Added an experimental Windows v2.0 that was backsaved to Capture 2019
        
        05-22-20 18:31 - Added scoring rubric      
